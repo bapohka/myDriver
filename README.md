@@ -1,0 +1,1 @@
+This is automatization in Java via testng, webdriver etc
